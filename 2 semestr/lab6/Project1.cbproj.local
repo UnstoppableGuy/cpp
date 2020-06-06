@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.024,=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=E:\C tasks\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:28:45.299,=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.06 12:28:45.354,=E:\C tasks\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:29:16.577,=C:\Users\Pavel\Desktop\cplusplus\lab6\Buttons.cpp</Transaction>
+    <Transaction>2020.06.06 12:29:16.585,=C:\Users\Pavel\Desktop\cplusplus\lab6\Tree.cpp</Transaction>
+    <Transaction>2020.06.06 12:29:16.621,=C:\Users\Pavel\Desktop\cplusplus\lab6\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:30:48.108,C:\Users\Pavel\Desktop\с++\2 semestr\lab6\Project1PCH1.h=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.06 12:30:49.259,C:\Users\Pavel\Desktop\с++\2 semestr\lab6\Project1.cbproj=E:\C tasks\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

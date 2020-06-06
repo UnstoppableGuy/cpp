@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.802,=E:\C tasks\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,E:\C tasks\Unit1.cpp=E:\C++ tasks\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,E:\C tasks\Unit1.h=E:\C++ tasks\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.911,=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,E:\C tasks\Unit2.cpp=E:\C tasks\RPN.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=E:\C tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,E:\C++ tasks\lab4\main.cpp=E:\C++ tasks\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,E:\C++ tasks\lab4\struct.h=E:\C++ tasks\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,E:\C++ tasks\lab4\struct.cpp=E:\C++ tasks\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,E:\C++ tasks\lab4\main.h=E:\C++ tasks\lab4\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.489,E:\C tasks\Project1.cbproj=E:\C++ tasks\lab4\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,E:\C tasks\Unit2.h=E:\C tasks\RPN.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,E:\C tasks\Project1PCH1.h=E:\C++ tasks\lab4\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,=E:\C++ tasks\lab4\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,E:\C tasks\Unit1.dfm=E:\C++ tasks\lab4\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,E:\C++ tasks\lab4\main.dfm=E:\C++ tasks\lab4\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

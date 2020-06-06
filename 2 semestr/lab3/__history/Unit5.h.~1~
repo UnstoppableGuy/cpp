@@ -1,0 +1,52 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#ifndef Unit5H
+#define Unit5H
+//---------------------------------------------------------------------------
+#endif
+
+class Record
+{
+	private:
+	int Serial number;
+	AnsiString FIO;
+	AnsiString Adress;
+	AnsiString Data;
+
+	public:
+	Record(int a, AnsiString b, AnsiString c, AnsiString d)
+	{
+		Set_Number(a);
+		FIO = b;
+		Adress = c;
+		Data = d;
+	}
+
+	void Set_Number(int x)
+	{
+		If(x > 0)
+			number = x;
+		else
+			number = 0;
+	}
+
+	int Get_Number()
+	{
+		return number;
+	}
+
+	AnsiString Get_Fio()
+	{
+		return FIO;
+	}
+
+	AnsiString Get_Adress()
+	{
+		return Adress;
+	}
+
+	AnsiString Get_Date()
+	{
+		return Data;
+	}
+};

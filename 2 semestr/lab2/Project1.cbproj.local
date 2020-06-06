@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Users\Pavel\Downloads\Telegram Desktop\Unit1.h=C:\Users\Pavel\Downloads\Telegram Desktop\main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\Pavel\Downloads\Telegram Desktop\func.h=C:\Users\Pavel\Downloads\Telegram Desktop\methods.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Users\Pavel\Downloads\Telegram Desktop\Unit1.cpp=C:\Users\Pavel\Downloads\Telegram Desktop\main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.765,C:\Users\Pavel\Downloads\Telegram Desktop\Unit1.dfm=C:\Users\Pavel\Downloads\Telegram Desktop\main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,C:\Users\Pavel\Downloads\Telegram Desktop\info.h=C:\Users\Pavel\Downloads\Telegram Desktop\list.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.393,C:\Users\Pavel\Downloads\Telegram Desktop\func.cpp=C:\Users\Pavel\Downloads\Telegram Desktop\methods.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.148,C:\Users\Pavel\Downloads\Telegram Desktop\info.cpp=C:\Users\Pavel\Downloads\Telegram Desktop\list.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

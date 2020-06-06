@@ -1,0 +1,8 @@
+Dan Ilya Anatolev FITY 290
+ 90 90 90
+Dan Ilya Anatolev FITY 70 75 70 75
+Chub Danik Mixailov IEF 60 65 70 77
+Takunov Pavel Alex FKSiS 70 80 96 85
+Pristrom Dima Andreev FKSiS 80 80 75 75
+Stankus Alexanra leon FKP 67 70 73 76
+Kudelya Alex NaN FKSiS 50 60 66 70

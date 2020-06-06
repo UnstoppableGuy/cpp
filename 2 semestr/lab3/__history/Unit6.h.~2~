@@ -1,0 +1,24 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#include "Unit5.h"
+#ifndef Unit6H
+#define Unit6H
+//---------------------------------------------------------------------------
+#endif
+
+class RecordList
+{
+	private:
+	Record* head = nullptr;
+	Record* tail = nullptr;
+
+	public:
+	void Add(Point* item);
+	void Add(Point* new_item, int index);
+	void Remove(int index);
+	Record* Search(int number);
+	Record* Search(AnsiString FIO);
+	Record* Search(AnsiString date);
+	//void print();
+	`RecordList();
+};

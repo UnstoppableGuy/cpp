@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.024,=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=E:\C tasks\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:32.381,=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.06 12:46:32.485,=E:\C tasks\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.578,=C:\Users\Pavel\Desktop\Новая папка\Circ.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.582,=C:\Users\Pavel\Desktop\Новая папка\Elps.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.590,=C:\Users\Pavel\Desktop\Новая папка\Hex.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.598,=C:\Users\Pavel\Desktop\Новая папка\Rec.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.606,=C:\Users\Pavel\Desktop\Новая папка\Shape.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.610,=C:\Users\Pavel\Desktop\Новая папка\Triangle.cpp</Transaction>
+    <Transaction>2020.06.06 12:46:55.650,=C:\Users\Pavel\Desktop\Новая папка\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:48:14.796,C:\Users\Pavel\Desktop\Новая папка\Unit1.cpp=</Transaction>
+    <Transaction>2020.06.06 12:49:14.289,=C:\Users\Pavel\Desktop\Новая папка\Unit1.cpp</Transaction>
+    <Transaction>2020.06.06 12:50:58.654,C:\Users\Pavel\Desktop\с++\2 semestr\lab1\zadanie2v2\Project1PCH1.h=E:\C tasks\Project1PCH1.h</Transaction>
+    <Transaction>2020.06.06 12:51:00.212,C:\Users\Pavel\Desktop\с++\2 semestr\lab1\zadanie2v2\Project1.cbproj=E:\C tasks\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

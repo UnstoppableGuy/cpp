@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.788,=D:\Проги 2 семестр\C++\Практика\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,D:\Проги 2 семестр\C++\Практика\Unit4.h=D:\Проги 2 семестр\C++\Лаба3\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Pavel\Desktop\Лаба 3\main.cpp=C:\Users\Pavel\Desktop\Лаба 3\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Pavel\Desktop\Лаба 3\MyException.cpp=C:\Users\Pavel\Desktop\Лаба 3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,D:\Проги 2 семестр\C++\Практика\Unit4.cpp=D:\Проги 2 семестр\C++\Лаба3\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.515,=D:\Проги 2 семестр\C++\Практика\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,D:\Проги 2 семестр\C++\Практика\Unit6.cpp=D:\Проги 2 семестр\C++\Лаба3\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=D:\Проги 2 семестр\C++\Практика\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.693,D:\Проги 2 семестр\C++\Практика\Project3.cbproj=D:\Проги 2 семестр\C++\Лаба3\Project3.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\Проги 2 семестр\C++\Практика\Unit5.h=D:\Проги 2 семестр\C++\Лаба3\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,C:\Users\Pavel\Desktop\Лаба 3\List.cpp=C:\Users\Pavel\Desktop\Лаба 3\Unit6.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\Pavel\Desktop\Лаба 3\Record.h=C:\Users\Pavel\Desktop\Лаба 3\Unit5.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.746,D:\Проги 2 семестр\C++\Практика\Unit6.h=D:\Проги 2 семестр\C++\Лаба3\Unit6.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,C:\Users\Pavel\Desktop\Лаба 3\List.h=C:\Users\Pavel\Desktop\Лаба 3\Unit6.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Pavel\Desktop\Лаба 3\main.h=C:\Users\Pavel\Desktop\Лаба 3\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Pavel\Desktop\Лаба 3\main.dfm=C:\Users\Pavel\Desktop\Лаба 3\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.416,=D:\Проги 2 семестр\C++\Практика\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,D:\Проги 2 семестр\C++\Практика\Unit5.cpp=D:\Проги 2 семестр\C++\Лаба3\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,=D:\Проги 2 семестр\C++\Лаба3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,D:\Проги 2 семестр\C++\Практика\Unit4.dfm=D:\Проги 2 семестр\C++\Лаба3\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.282,C:\Users\Pavel\Desktop\Лаба 3\MyException.h=C:\Users\Pavel\Desktop\Лаба 3\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.212,C:\Users\Pavel\Desktop\Лаба 3\Record.cpp=C:\Users\Pavel\Desktop\Лаба 3\Unit5.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.775,D:\Проги 2 семестр\C++\Практика\Project3PCH1.h=D:\Проги 2 семестр\C++\Лаба3\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.271,=D:\Проги 2 семестр\C++\Практика\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,=D:\Проги 2 семестр\C++\Практика\Project3PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

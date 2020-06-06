@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.353,E:\C++ tasks\Circle from Alekseev\Unit1.h=E:\C++ tasks\Circle from Alekseev\landing_strip.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,E:\C++ tasks\Circle from Alekseev\Unit3.h=E:\C tasks\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.023,E:\C++ tasks\Circle from Alekseev\Unit3.cpp=E:\C tasks\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,E:\C++ tasks\Circle from Alekseev\Bus.cpp=E:\C++ tasks\Circle from Alekseev\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,E:\C++ tasks\Circle from Alekseev\Circle.cbproj=E:\C++ tasks\Circle from Alekseev\lab1Plane.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.984,E:\C++ tasks\Circle from Alekseev\Circle.cbproj=E:\C tasks\Circle.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,E:\C++ tasks\Circle from Alekseev\Plane.h=E:\C++ tasks\Circle from Alekseev\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,=E:\C++ tasks\Zadanie1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.226,E:\C++ tasks\Circle from Alekseev\Bus.h=E:\C++ tasks\Circle from Alekseev\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=E:\C tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,E:\C++ tasks\Zadanie1\Trip.h=E:\C++ tasks\Zadanie1\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.498,E:\C++ tasks\Zadanie1\Trip.cpp=E:\C++ tasks\Zadanie1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,E:\C++ tasks\Circle from Alekseev\Main.h=E:\C++ tasks\Circle from Alekseev\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\C++ tasks\Circle from Alekseev\Unit2.cpp=E:\C tasks\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,E:\C++ tasks\Circle from Alekseev\Plane.cpp=E:\C++ tasks\Circle from Alekseev\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.755,=E:\C++ tasks\Circle from Alekseev\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.463,=E:\C++ tasks\Circle from Alekseev\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.314,E:\C++ tasks\Circle from Alekseev\landing_strip.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.353,E:\C++ tasks\Circle from Alekseev\Unit1.cpp=E:\C++ tasks\Circle from Alekseev\landing_strip.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,E:\C++ tasks\Circle from Alekseev\Main.cpp=E:\C++ tasks\Circle from Alekseev\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.903,=E:\C tasks\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.939,E:\C tasks\Circle.cbproj=E:\C tasks\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.935,E:\C tasks\CirclePCH1.h=E:\C tasks\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.766,=E:\C tasks\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\C++ tasks\Circle from Alekseev\Unit2.h=E:\C tasks\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.556,E:\C++ tasks\Circle from Alekseev\Main.dfm=E:\C++ tasks\Circle from Alekseev\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,E:\C++ tasks\Circle from Alekseev\CirclePCH1.h=E:\C tasks\CirclePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,E:\C++ tasks\Circle from Alekseev\CirclePCH1.h=E:\C++ tasks\Circle from Alekseev\lab1PlanePCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\C++ tasks\Circle from Alekseev\Unit2.dfm=E:\C tasks\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
